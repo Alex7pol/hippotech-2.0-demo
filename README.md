@@ -158,3 +158,4 @@ npx cypress open            # now you can view and run the test suites
 cd test                    # if you haven't already
 npx cypress run            # this will run all the tests without UI 
 ```
+"# hippotech-2.0-demo" 
